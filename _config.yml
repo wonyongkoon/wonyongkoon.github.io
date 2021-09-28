@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "wonyongkoon"
-title_separator          : "-"
+title                    : "DALDING"
+title_separator          : "달달하게 코딩해보자"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "wonyongkoon"
 description              : "An amazing website."
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "워뇽이네"
+  name             : "wonyongkoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "천천히.."
   location         : "Seoul"
