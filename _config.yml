@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "워뇽이네"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : ""
 description              : "An amazing website."
 url                      : "https://wonyongkoon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "wonyongkoon"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "천천히.."
   location         : "Seoul"
